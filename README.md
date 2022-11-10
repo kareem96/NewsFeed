@@ -2,7 +2,7 @@
 Test creating apps NewsAPI
 
 ## Design Pattern : MVVM
-<img src="https://github.com/android10/Sample-Data/raw/master/Android-CleanArchitecture-Kotlin/architecture/clean_architecture_reloaded_mvvm_app.png" width="250">
+<img src="https://github.com/android10/Sample-Data/raw/master/Android-CleanArchitecture-Kotlin/architecture/clean_architecture_reloaded_mvvm_app.png" width="500">
 
 
 ## Clean Architecture
